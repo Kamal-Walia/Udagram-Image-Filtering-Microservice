@@ -21,7 +21,7 @@
     "typescript": "^3.5.3"
   },
   "dependencies": {
-    "express": "^4.17.3",
+    "express": "^4.19.2",
     "jimp": "^0.16.2"
   }
 }
